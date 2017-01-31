@@ -15,9 +15,9 @@ This repo contains the following samples:
 
 [Read the Documentation for OneSignal Android Customizations](https://documentation.onesignal.com/docs/android-customizations)
 
-![alt tag](/img/1.png)
-
 ![alt tag](/img/2.png)
+
+![alt tag](/img/1.png)
 
 ![alt tag](/img/3.png)
 
