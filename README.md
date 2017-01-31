@@ -10,10 +10,14 @@ This repo contains the following samples:
 
 ## Documentation
 [Read the Documentation for OneSignal API](https://documentation.onesignal.com/docs/onesignal-api)
+
 [Read the Documentation for OneSignal Android Native SDK](https://documentation.onesignal.com/docs/android-native-sdk)
+
 [Read the Documentation for OneSignal Android Customizations](https://documentation.onesignal.com/docs/android-customizations)
 
 ![alt tag](/img/1.png)
+
 ![alt tag](/img/2.png)
+
 ![alt tag](/img/3.png)
 
